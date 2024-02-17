@@ -1,3 +1,3 @@
-module github.com/michaelneuper/hugo-texify3
+module github.com/swbuchanan/hugo-texify3s
 
 go 1.20

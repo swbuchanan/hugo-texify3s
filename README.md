@@ -1,4 +1,6 @@
-# TeXify3
+# TeXify3s
+
+> I need to update this - SB
 
 > A LaTeX-style hugo theme with the gruvbox color scheme for personal blogging
 
@@ -14,7 +16,6 @@
 - Any comment engine (giscus, remark42, hyvor, etc.)
 - [Mermaid](https://mermaid.js.org) support
 - DuckDuckGo search
-- Buymeacoffee widget
 - Auto numbered subtitles
 - [Disqus](https://disqus.com/) & Google Analytics
 - Render math equations with [KaTeX](https://katex.org/)
@@ -42,22 +43,4 @@ for an example configuration.
 
 ## Acknowledgement
 
-The following software inspires the design of this theme:
-
-- <https://github.com/weastur/hugo-texify2>
-- <https://github.com/vincentdoerig/latex-css>
-- <https://github.com/7ma7X/HugoTeX>
-- <https://theme.typora.io/theme/Academic/>
-- <https://github.com/queensferryme/hugo-theme-texify>
-- <https://sharingbuttons.io>
-
-## Support
-
-If you want to support the development or say thanks, become a GitHub Sponsor or
-
-<a href="https://www.buymeacoffee.com/michaelneuper" target="_blank">
-<img src="https://cdn.buymeacoffee.com/buttons/default-orange.png"
-    alt="Buy Me A Coffee"
-    height="41"
-    width="174">
-</a>
+This theme is very similar to https://github.com/michaelneuper/hugo-texify3
