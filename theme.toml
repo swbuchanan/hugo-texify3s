@@ -1,7 +1,7 @@
 name = "TeXify3"
 license = "MIT"
 licenselink = "https://github.com/michaelneuper/hugo-texify3/blob/master/LICENSE"
-description = "A latex-style hugo theme with the gruvbox color scheme for personal blogging"
+description = "A latex-style hugo theme with the gruvbox color scheme for articles and blog posts.  Sort of a simpler version of hugo-texify3 by Michael Neuper."
 
 homepage = "https://github.com/michaelneuper/hugo-texify3"
 
@@ -11,10 +11,10 @@ tags = ["blog", "clean", "latex", "light", "minimal", "responsive", "simple"]
 features = ["blog", "postcss", "comments", "google analytics"]
 
 [author]
-    name = "Michael Neuper"
-    homepage = "https://michaelneuper.com"
+    name = "Steven Buchanan"
+    homepage = "https://stevenbuchanan.net"
 
 [original]
-    author = "Pavel Sapezhka"
-    repo = "https://github.com/weastur/hugo-texify2"
+    author = "Michael Neuper"
+    repo = "https://github.com/michaelneuper/hugo-texify3"
     
