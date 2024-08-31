@@ -39,7 +39,7 @@ weight = 3
 
 
 [[menu.main]]
-  name = "Phaser Demo"
+  name = "Cool Stuff"
   weight = 2
-  identifier = "phaser-demo"
-  url = "/phaser-demo/"
+  identifier = "cool-stuff"
+  url = "/cool-stuff/"
