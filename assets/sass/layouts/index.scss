@@ -3,7 +3,7 @@
 @import "../vars";
 
 .grid-container {
-  display: grid;
+  display: block; // change this back to grid if you want a sidebar I think
   grid-template-columns: 3fr 1fr;
   gap: $margin * 2;
 
